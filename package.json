@@ -1,0 +1,25 @@
+{
+  "name": "ell-i-raspiware",
+  "version": "0.0.1",
+  "description": "ELL-i coop timer for DailyGreens control",
+  "main": "raspitimer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ELL-i",
+    "DailyGreens",
+    "relay",
+    "Raspberry Pi",
+    "GPIO"
+  ],
+  "author": {
+    "name": "Teemu Hakala",
+    "email": "temmi@iki.fi"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-jshint": "^1.11.2",
+    "jshint-stylish": "^2.0.1"
+  }
+}
