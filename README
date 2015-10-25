@@ -1,0 +1,9 @@
+raspiware npm module is a learning process aimed at:
+
+- learning npm
+- learning raspberry pi gpio in node.js
+- learning ci/cd
+
+raspiware is related to a workshop held on mondays at helsinki.hacklab.fi
+
+don't use unless you really mean to
